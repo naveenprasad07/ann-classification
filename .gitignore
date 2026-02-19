@@ -1,4 +1,4 @@
 .vscode
 venv/
-*.pkl
-*.h5
+.devcontainer
+logs/*
